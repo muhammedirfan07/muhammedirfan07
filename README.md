@@ -1,4 +1,4 @@
-## Hi 👋 Iam MUHAMMED IRFAN K 
+## Hyy 👋 I'm MUHAMMED IRFAN K 
 
 <!--
 **muhammedirfan07/muhammedirfan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
