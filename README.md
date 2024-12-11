@@ -1,9 +1,9 @@
 ## Hyy 👋 I'm MUHAMMED IRFAN K 
 
 
-**Enthusiastic and self-motivated MERN Stack Developer with a strong foundation in MongoDB, Express.js, React.js, and Node.js. Passionate about developing innovative, user-friendly web applications and eager to 
+ Enthusiastic and self-motivated MERN Stack Developer with a strong foundation in MongoDB, Express.js, React.js, and Node.js. Passionate about developing innovative, user-friendly web applications and eager to 
   contribute to impactful projects. Skilled in translating theoretical knowledge into practical, scalable solutions through academic projects and self-initiated learning.
-  README.md` (this file) appears on your GitHub profile.
+ 
 <!--
 Here are some ideas to get you started:
 
