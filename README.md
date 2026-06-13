@@ -1,74 +1,58 @@
-<!-- Header Animation -->
+<!-- ANIMATED BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammed%20Irfan%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=62&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=MUHAMMED%20IRFAN%20K&fontSize=50&fontColor=00ffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Turning%20Ideas%20Into%20Digital%20Reality%20⚡&descAlignY=60&descSize=18&descColor=ffffff&stroke=00ffff&strokeWidth=2"/>
 </div>
 
-<!-- Typing Animation -->
+<!-- MATRIX TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Muhammed+Irfan+K+👋;MERN+Stack+Developer+🚀;Full+Stack+Web+Developer+💻;Always+Learning+%7C+Always+Building+🔥;Open+to+Work+%26+Collaborate+🤝" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=🚀+MERN+Stack+Developer+%7C+Problem+Solver;💡+Building+Scalable+Web+Applications;🔐+REST+APIs+%7C+JWT+%7C+Socket.io;🧠+Clean+Code+%7C+Best+Practices+%7C+Always+Learning;🌍+Open+Source+Contributor+%7C+Tech+Enthusiast;⚡+React+%7C+Node+%7C+MongoDB+%7C+Express" />
 </div>
 
 <br/>
 
+<!-- STATUS BADGES -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Lives-Kerala%2C%20India-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔥_Status-Available_for_Work-00ff88?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/📍_Location-Kerala,_India-00ccff?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/💼_Role-Full_Stack_Developer-ff6e96?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎯_Focus-MERN_Stack-a855f7?style=for-the-badge&labelColor=0d1117"/>
 </div>
 
 <br/>
 
 ---
 
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-```javascript
-const irfan = {
-  name:     "Muhammed Irfan K",
-  role:     "MERN Stack Developer",
-  location: "Kerala, India 🇮🇳",
-
-  skills: {
-    frontend: ["React.js", "Redux", "Tailwind", "Bootstrap"],
-    backend:  ["Node.js", "Express.js", "REST APIs", "Socket.io"],
-    database: ["MongoDB", "MySQL"],
-    tools:    ["Git", "GitHub", "Figma", "Vercel"],
-  },
-
-  currentlyLearning: ["TypeScript", "System Design", "DSA"],
-  funFact: "I debug with console.log and I'm not ashamed 😄",
-  goal:    "Build products that make a difference 🌍",
-};
-```
-
-<br clear="right"/>
-
----
-
-## 🚀 What I Do
-
+<!-- ABOUT SECTION WITH GIF -->
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### 🎨 Frontend
-- ⚛️ Dynamic UIs with **React.js**
-- 🎯 State management with **Redux & Context API**
-- 💅 Responsive design with **Tailwind CSS**
-- ✨ Animations with **Framer Motion**
-- 📱 Mobile-first development
+## 🧑‍🚀 About Me
+
+> *"I don't just write code — I craft experiences."*
+
+I'm **Muhammed Irfan K**, a passionate **Full Stack MERN Developer** from Kerala, India 🇮🇳. I specialize in building fast, scalable, and visually stunning web applications from frontend to backend.
+
+With a strong foundation in **JavaScript ecosystems**, I bring ideas to life using modern tools, clean architecture, and best coding practices. Every project I build is an opportunity to solve real-world problems with elegant technical solutions.
+
+### 🎯 My Developer DNA
+- 🧠 **Problem Solver** — I break complex problems into simple solutions
+- 🏗️ **Architect** — I design scalable, maintainable system structures  
+- 🎨 **UI Craftsman** — I build pixel-perfect, responsive interfaces
+- 🔐 **Security Aware** — JWT auth, bcrypt, secure API design
+- 🚀 **Performance Focused** — Optimized code, lazy loading, caching
+- 📚 **Lifelong Learner** — Always exploring new tech and patterns
 
 </td>
-<td width="50%">
+<td width="45%" align="center" valign="top">
 
-### ⚙️ Backend
-- 🔧 REST APIs with **Node.js & Express**
-- 🔐 Auth with **JWT & bcrypt**
-- 🗄️ Database design **MongoDB & MySQL**
-- 🔄 Real-time with **Socket.io**
-- ☁️ Deploy on **Vercel & Render**
+<br/>
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" style="border-radius:20px"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedirfan07&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&card_width=280" width="300"/>
 
 </td>
 </tr>
@@ -76,31 +60,143 @@ const irfan = {
 
 ---
 
-## 🌱 Currently
-
+<!-- CODE BLOCK BIO -->
+## 💻 Developer Profile
 ```
-🔭 Working on   → EV Charging Station Finder (MERN Stack)
-🌱 Learning     → TypeScript · System Design · DSA
-👯 Looking for  → Collaboration on Open Source Projects
-💼 Open to      → Full Stack Developer Roles
-💬 Ask me about → React · Node.js · MongoDB · Express
-⚡ Fun fact     → I turn coffee into code ☕→💻
+const MuhammedIrfan: Developer = {
+  name:       "Muhammed Irfan K",
+  role:       "Full Stack MERN Developer",
+  location:   "Kerala, India 🇮🇳",
+  experience: "Fresher → Building Experience Daily 📈",
+  education:  "Computer Science Graduate 🎓",
+  passion:    ["Web Dev", "Open Source", "Problem Solving", "DSA"],
+
+  techStack: {
+    languages:  ["JavaScript", "TypeScript", "C", "HTML5", "CSS3"],
+    frontend:   ["React.js", "Redux", "Context API", "Tailwind CSS", "Bootstrap", "Framer Motion"],
+    backend:    ["Node.js", "Express.js", "REST APIs", "Socket.io", "JWT", "bcrypt"],
+    database:   ["MongoDB", "Mongoose", "MySQL"],
+    devOps:     ["Git", "GitHub", "Vercel", "Render", "npm"],
+    design:     ["Figma", "Canva"],
+  },
+  currentGoal: "Land my first Dev role & contribute to Open Source 🎯", 
+};
+
+// Life philosophy
+const myMotto = (): string => {
+  return "Code with purpose. Build with passion. Deploy with confidence. 🚀";
+};
 ```
 
 ---
 
+<!-- WHAT I BUILD -->
+## 🛠️ What I Build
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🌐 Web Apps
+Full-stack MERN applications with auth, real-time features & clean UI
+
+</td>
+<td align="center" width="25%">
+
+### 🔌 REST APIs
+Secure, scalable Node.js APIs with JWT auth & MongoDB integration
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ Real-Time Apps
+Socket.io powered live chat, notifications & real-time dashboards
+
+</td>
+<td align="center" width="25%">
+
+### 📱 Responsive UIs
+Mobile-first React interfaces with Tailwind CSS & smooth animations
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- PROJECTS SHOWCASE -->
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚡ EV Charging Station Finder
+> Full Stack MERN Application
+
+🔹 Find nearby EV charging stations on map  
+🔹 Real-time station availability updates  
+🔹 User auth with JWT & booking system  
+🔹 Reviews & ratings with Context API  
+🔹 Mobile responsive with Tailwind CSS  
+
+**Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 LeetCode DSA Practice
+> Algorithm & Data Structures
+
+🔹 Solving problems daily — Easy → Hard  
+🔹 Organized by difficulty & topic  
+🔹 Clean, commented JavaScript solutions  
+🔹 Big-O analysis for each solution  
+🔹 Patterns & notes for interview prep  
+
+**Topics:**
+![Arrays](https://img.shields.io/badge/Arrays-blue?style=flat-square)
+![Strings](https://img.shields.io/badge/Strings-green?style=flat-square)
+![HashMaps](https://img.shields.io/badge/HashMaps-orange?style=flat-square)
+![Two Pointers](https://img.shields.io/badge/Two_Pointers-red?style=flat-square)
+
+</td>
+
+</tr>
+</table>
+</div>
+
+---
+
+<!-- CONNECT SECTION -->
 ## 🌐 Connect With Me
 
 <div align="center">
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-irfan-k007)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammedirfan07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-irfan-k007)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammedirfan07)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedirfan07@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/muhammedirfan07)
+
+<br/>
+
+> 💬 *"Always open to exciting opportunities, collaborations, and tech talks!"*
 
 </div>
 
 ---
 
+<!-- TECH STACK -->
 ## 💻 Tech Stack
 
 ### 🖥️ Languages
@@ -137,7 +233,7 @@ const irfan = {
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="34"/>
 </p>
 
-### ☁️ Deployment & Tools
+### ☁️ Tools & Deployment
 <p>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="34"/>
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" height="34"/>
@@ -150,7 +246,9 @@ const irfan = {
 
 ---
 
+<!-- STATS -->
 ## 📊 GitHub Stats
+
 
 <div align="center">
 
@@ -162,6 +260,7 @@ const irfan = {
 
 ---
 
+<!-- TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -170,42 +269,48 @@ const irfan = {
 
 ---
 
+<!-- ACTIVITY GRAPH -->
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedirfan07&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedirfan07&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammed%20Irfan's%20Contribution%20Graph"/>
 </div>
 
 ---
 
-## 🐍 My Contributions
+<!-- SNAKE -->
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/muhammedirfan07/muhammedirfan07/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/muhammedirfan07/muhammedirfan07/output/snake.svg"/>
 </div>
 
 ---
 
+<!-- SKILLS TABLE -->
 ## 📊 Skills Overview
 
 <div align="center">
 
-| Skill | Level |
-|-------|-------|
-| JavaScript | █████████████████░░░ 85% |
-| React.js | ████████████████░░░░ 80% |
-| Tailwind CSS | ████████████████░░░░ 80% |
-| Node.js | ███████████████░░░░░ 75% |
-| Express.js | ███████████████░░░░░ 75% |
-| Git & GitHub | ███████████████░░░░░ 75% |
-| MongoDB | ██████████████░░░░░░ 70% |
-| TypeScript | ██████████░░░░░░░░░░ 50% |
+| 🛠️ Skill | 📊 Progress | 💯 Level |
+|-----------|------------|---------|
+| JavaScript | `█████████████████░░░` | 85% |
+| React.js | `████████████████░░░░` | 80%|
+| Tailwind CSS | `████████████████░░░░` | 80% |
+| Node.js | `███████████████░░░░░` | 75%  |
+| Express.js | `███████████████░░░░░` | 75% |
+| MongoDB | `██████████████░░░░░░` | 70%  |
+| Git & GitHub | `███████████████░░░░░` | 75%  |
+| TypeScript | `██████████░░░░░░░░░░` | 68%  |
+| MySQL | `████████████░░░░░░░░` | 60%  |
+| DSA | `██████████░░░░░░░░░░` | 50% — Growing 🌱 |
 
 </div>
 
 ---
 
-## 💡 Dev Quote
+<!-- QUOTE -->
+## 💡 Dev Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -213,12 +318,25 @@ const irfan = {
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
 
 ### 👀 Profile Views
 <img src="https://visitcount.itsvg.in/api?id=muhammedirfan07&icon=6&color=6"/>
+
+<br/><br/>
+
+```javascript
+while (alive) {
+  eat();
+  sleep();
+                        code(); // ← most important 🔥
+  repeat();
+}
+```
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20For%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=22&fontColor=00ffff&animation=twinkling"/>
 
 </div>
