@@ -1,26 +1,9 @@
 <!-- ANIMATED BANNER -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=MUHAMMED%20IRFAN%20K&fontSize=50&fontColor=00ffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Turning%20Ideas%20Into%20Digital%20Reality%20⚡&descAlignY=60&descSize=18&descColor=ffffff&stroke=00ffff&strokeWidth=2"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1d9e75&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Muhammed+Irfan+K;Full+Stack+MERN+Developer;Building+scalable+web+apps;Open+to+work+%E2%80%94+Let's+connect" />
 </div>
 
-<!-- MATRIX TYPING -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=🚀+MERN+Stack+Developer+%7C+Problem+Solver;💡+Building+Scalable+Web+Applications;🔐+REST+APIs+%7C+JWT+%7C+Socket.io;🧠+Clean+Code+%7C+Best+Practices+%7C+Always+Learning;🌍+Open+Source+Contributor+%7C+Tech+Enthusiast;⚡+React+%7C+Node+%7C+MongoDB+%7C+Express" />
-</div>
-
-<br/>
-
-<!-- STATUS BADGES -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🔥_Status-Available_for_Work-00ff88?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/📍_Location-Kerala,_India-00ccff?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/💼_Role-Full_Stack_Developer-ff6e96?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🎯_Focus-MERN_Stack-a855f7?style=for-the-badge&labelColor=0d1117"/>
-</div>
-
-<br/>
-
----
 
 <!-- ABOUT SECTION WITH GIF -->
 <table>
@@ -249,7 +232,6 @@ Mobile-first React interfaces with Tailwind CSS & smooth animations
 <!-- STATS -->
 ## 📊 GitHub Stats
 
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=muhammedirfan07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%"/>
@@ -260,32 +242,12 @@ Mobile-first React interfaces with Tailwind CSS & smooth animations
 
 ---
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammedirfan07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
-</div>
-
----
-
 <!-- ACTIVITY GRAPH -->
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedirfan07&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammed%20Irfan's%20Contribution%20Graph"/>
 </div>
-
----
-
-<!-- SNAKE -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muhammedirfan07/muhammedirfan07/output/snake.svg"/>
-</div>
-
----
 
 <!-- SKILLS TABLE -->
 ## 📊 Skills Overview
