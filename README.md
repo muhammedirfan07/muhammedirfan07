@@ -249,50 +249,11 @@ Mobile-first React interfaces with Tailwind CSS & smooth animations
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedirfan07&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammed%20Irfan's%20Contribution%20Graph"/>
 </div>
 
-<!-- SKILLS TABLE -->
-## 📊 Skills Overview
-
-<div align="center">
-
-| 🛠️ Skill | 📊 Progress | 💯 Level |
-|-----------|------------|---------|
-| JavaScript | `█████████████████░░░` | 85% |
-| React.js | `████████████████░░░░` | 80%|
-| Tailwind CSS | `████████████████░░░░` | 80% |
-| Node.js | `███████████████░░░░░` | 75%  |
-| Express.js | `███████████████░░░░░` | 75% |
-| MongoDB | `██████████████░░░░░░` | 70%  |
-| Git & GitHub | `███████████████░░░░░` | 75%  |
-| TypeScript | `██████████░░░░░░░░░░` | 68%  |
-| MySQL | `████████████░░░░░░░░` | 60%  |
-| DSA | `██████████░░░░░░░░░░` | 50% — Growing 🌱 |
-
-</div>
-
----
-
-<!-- QUOTE -->
-## 💡 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-
-### 👀 Profile Views
-<img src="https://visitcount.itsvg.in/api?id=muhammedirfan07&icon=6&color=6"/>
-
-<br/><br/>
-
 ```javascript
 while (alive) {
   eat();
   sleep();
-                        code(); // ← most important 🔥
+  code(); // ← most important 🔥
   repeat();
 }
 ```
